@@ -10184,12 +10184,12 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #ee3270 !important;
 }
 
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #e6b301 !important;
+  color: #ee3270 !important;
 }
 
 .text-secondary {
@@ -10605,7 +10605,7 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(254, 209, 54, 0.9);
+  background: rgba(230, 16, 116, 0.9);
   align-items: center;
   justify-content: center;
   opacity: 0;
@@ -10697,7 +10697,7 @@ header.masthead .masthead-heading {
   width: 2px;
   margin-left: -1.5px;
   content: "";
-  background-color: #e9ecef;
+  background-color: #d62862;
 }
 .timeline > li {
   position: relative;
@@ -10740,7 +10740,7 @@ header.masthead .masthead-heading {
   margin-left: 0;
   text-align: center;
   color: white;
-  border: 7px solid #e9ecef;
+  border: 7px solid #d62862;
   border-radius: 100%;
   background-color: #d62862;
 }
