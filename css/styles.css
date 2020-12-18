@@ -10697,7 +10697,7 @@ header.masthead .masthead-heading {
   width: 2px;
   margin-left: -1.5px;
   content: "";
-  background-color: #d62862;
+  background-color: #e9ecef;
 }
 .timeline > li {
   position: relative;
@@ -10740,9 +10740,9 @@ header.masthead .masthead-heading {
   margin-left: 0;
   text-align: center;
   color: white;
-  border: 7px solid #d62862;
+  border: 7px solid #e9eaef;
   border-radius: 100%;
-  background-color: #d62862;
+  background-color: #e9eaef;
 }
 .timeline > li .timeline-image h4 {
   font-size: 10px;
